@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ratangupta&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ratan2404&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/CGPA-7.5-blue?style=flat" />
 </p>
@@ -25,7 +25,7 @@
 🌱 Learning    : Spring Boot & Backend Development
 💡 Practicing  : Data Structures & Algorithms in Java on LeetCode
 🎯 Looking for : Software Engineer / Java Developer / Backend Developer roles
-📫 Reach me    : your-email@example.com
+📫 Reach me    : ratangupta2404@gmail.com
 ```
 
 I'm passionate about **software development and problem-solving**. I regularly sharpen my DSA skills in Java, and I'm currently deep-diving into **Spring Boot** and backend engineering by building real projects — turning theory into practical, working code.
@@ -51,16 +51,16 @@ I'm passionate about **software development and problem-solving**. I regularly s
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ratangupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratangupta&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ratan2404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratan2404&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratangupta&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratan2404&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ratangupta&theme=tokyo-night&hide_border=true" alt="activity graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ratan2404&theme=tokyo-night&hide_border=true" alt="activity graph" width="90%"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@ I'm passionate about **software development and problem-solving**. I regularly s
 ### 🏆 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ratangupta?theme=dark&font=baloo2&ext=heatmap" alt="leetcode stats" />
+  <img src="https://leetcard.jacoblin.cool/ratan_gupta2404?theme=dark&font=baloo2&ext=heatmap" alt="leetcode stats" />
 </p>
 
 ---
@@ -76,16 +76,16 @@ I'm passionate about **software development and problem-solving**. I regularly s
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ratan-gupta2404" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ratangupta2404@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE" target="_blank">
+  <a href="https://leetcode.com/u/ratan_gupta2404" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB" target="_blank">
+  <a href="https://github.com/ratan2404" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
